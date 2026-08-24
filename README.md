@@ -25,7 +25,7 @@ Apresenta um menu interativo com 4 formas geométricas:
 
 ---
 
-## 🛠️ Requisitos e Tecnologias
+## 🛠️z Requisitos e Tecnologias
 
 * [Flowgorithm](http://www.flowgorithm.org/) (Versão 3.0 ou superior / 4.2 recomendada).
 * Compatível com **Windows**. *(Para usuários de macOS/Linux, o arquivo `.fprg` pode ser visualizado via Wine/Parallels ou lido diretamente através do código fonte).*
