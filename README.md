@@ -1,39 +1,44 @@
-# Calculadora Multiuso: IMC e Área Geométrica
+# Calculadora Multifuncional - Algoritmos e Lógica de Programação
 
-Projeto desenvolvido em **Flowgorithm** para a disciplina de **Algoritmos e Programação** (2º Semestre).
+**Instituição:** Centro Universitário do Distrito Federal (UDF)
+**Aluno:** Arthur
 
-O programa consiste em um sistema interativo que permite ao usuário escolher entre duas funcionalidades principais: o cálculo do **Índice de Massa Corporal (IMC)** com faixa de peso ideal ou o cálculo de **Área de Figuras Geométricas**.
+## Objetivo do Programa
+Desenvolver uma calculadora multifuncional interativa baseada em fluxogramas (Flowgorithm), aplicando conceitos de lógica de programação, estruturas condicionais e matemática computacional.
+
+## Funcionamento
+O programa opera através de um menu interativo no console do Flowgorithm. O usuário escolhe a categoria desejada (Cálculos de Saúde, Geometria ou Matemática Básica) digitando o número correspondente. Em seguida, o algoritmo solicita as entradas numéricas necessárias, processa as condições lógicas e exibe o resultado final, incluindo alertas auxiliares (como a faixa de peso ideal, no caso do IMC).
+
+## Funções Implementadas (20 Operações)
+
+1. Adição
+2. Subtração
+3. Multiplicação
+4. Divisão
+5. Módulo (Resto da divisão)
+6. Potenciação
+7. Raiz Quadrada
+8. Porcentagem
+9. Fatorial
+10. Conversão Celsius -> Fahrenheit
+11. Conversão Fahrenheit -> Celsius
+12. Conversão Real -> Dólar
+13. Conversão Dólar -> Real
+14. Cálculo de Juros Simples
+15. Cálculo de Desconto Comercial
+16. Cálculo de Média Aritmética
+17. **Cálculo de IMC (Índice de Massa Corporal) — *Obrigatória***
+18. **Cálculo de Área: Quadrado — *Obrigatória***
+19. **Cálculo de Área: Retângulo — *Obrigatória***
+20. **Cálculo de Área: Triângulo e Círculo — *Obrigatória***
+
+## Instruções de Execução
+
+1. Baixe e instale o software [Flowgorithm](http://www.flowgorithm.org/).
+2. Faça o clone deste repositório ou baixe o arquivo `.fprg`.
+3. Abra o arquivo `.fprg` no Flowgorithm.
+4. Clique no botão de execução (ícone de "Play" na cor verde) ou pressione `F5`.
+5. Utilize o console de saída para interagir com o programa, inserindo os dados solicitados pelo terminal.
 
 ---
-
-##  Funcionalidades
-
-### 1. Calculadora de IMC
-* Solicitada a **altura** (em metros) e o **peso** (em quilogramas).
-* Calcula o valor do IMC:
-  $$\text{IMC} = \frac{\text{peso}}{\text{altura}^2}$$
-* Exibe o IMC calculado e informa a **faixa de peso ideal** (peso mínimo e peso máximo recomendados segundo a OMS):
-  * $\text{Peso Mínimo} = 18.5 \times \text{altura}^2$
-  * $\text{Peso Máximo} = 24.9 \times \text{altura}^2$
-
-### 2. Calculadora de Área Geográfica
-Apresenta um menu interativo com 4 formas geométricas:
-1. **Quadrado:** $A = \text{lado}^2$
-2. **Retângulo:** $A = \text{base} \times \text{altura}$
-3. **Triângulo:** $A = \frac{\text{base} \times \text{altura}}{2}$
-4. **Círculo:** $A = \pi \times \text{raio}^2$ (considerando $\pi = 3.14159$)
-
----
-
-## 🛠️z Requisitos e Tecnologias
-
-* [Flowgorithm](http://www.flowgorithm.org/) (Versão 3.0 ou superior / 4.2 recomendada).
-* Compatível com **Windows**. *(Para usuários de macOS/Linux, o arquivo `.fprg` pode ser visualizado via Wine/Parallels ou lido diretamente através do código fonte).*
-
----
-
-## 📂 Estrutura do Arquivo
-
-* `Calculadora_IMC_e_Area_v2.fprg`: Arquivo do fluxograma principal do Flowgorithm.
-
----
+*Este repositório cumpre as exigências da avaliação, permitindo a visualização estruturada das entradas, processamento e saídas da aplicação.*
