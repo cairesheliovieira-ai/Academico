@@ -1,7 +1,7 @@
 # Calculadora Multifuncional - Algoritmos e Lógica de Programação
 
 **Instituição:** Centro Universitário do Distrito Federal (UDF)
-**Aluno:** Arthur
+**Aluno:** Hélio Junior Vieira Caires
 
 ## Objetivo do Programa
 Desenvolver uma calculadora multifuncional interativa baseada em fluxogramas (Flowgorithm), aplicando conceitos de lógica de programação, estruturas condicionais e matemática computacional.
