@@ -41,4 +41,4 @@ O programa opera através de um menu interativo no console do Flowgorithm. O usu
 5. Utilize o console de saída para interagir com o programa, inserindo os dados solicitados pelo terminal.
 
 ---
-*Este repositório cumpre as exigências da avaliação, permitindo a visualização estruturada das entradas, processamento e saídas da aplicação.*
+
