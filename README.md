@@ -27,10 +27,10 @@ O programa opera através de um menu interativo no console do Flowgorithm. O usu
 14. Cálculo de Juros Simples
 15. Cálculo de Desconto Comercial
 16. Cálculo de Média Aritmética
-17. **Cálculo de IMC (Índice de Massa Corporal) — *Obrigatória***
-18. **Cálculo de Área: Quadrado — *Obrigatória***
-19. **Cálculo de Área: Retângulo — *Obrigatória***
-20. **Cálculo de Área: Triângulo e Círculo — *Obrigatória***
+17. **Cálculo de IMC (Índice de Massa Corporal) 
+18. **Cálculo de Área: Quadrado 
+19. **Cálculo de Área: Retângulo 
+20. **Cálculo de Área: Triângulo e Círculo 
 
 ## Instruções de Execução
 
