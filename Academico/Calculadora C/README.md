@@ -42,9 +42,3 @@ Para compilar e executar o código, você precisará de um compilador C (como o 
 * `<stdio.h>`: Entrada e saída padrão.
 * `<math.h>`: Funções matemáticas avançadas.
 
-### ⚙️ Como Compilar
-
-No terminal, execute o seguinte comando no diretório do arquivo:
-
-```bash
-gcc -o calculadora main.c -lm
